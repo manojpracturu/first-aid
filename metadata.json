@@ -1,0 +1,8 @@
+{
+  "name": "LifeGuard AI",
+  "description": "An emergency response assistance app with First Aid AI, SOS calling, and Hospital locator.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
